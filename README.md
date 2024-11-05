@@ -26,15 +26,11 @@ The sales data were explored to answer some fundamental questions such as:
 This shows some basic lines of code and queries and spme of the Dax expression used during the Analysis;
 
 '''SQL
-
 SELECT * FROM LITASALESDATA
-
 '''
 
 '''SQL
-
-
-
 SELECT SUM(SALES) AS Totalsales from LITAPROJECTI
-
 '''
+### DATA VISUALISATION
+
