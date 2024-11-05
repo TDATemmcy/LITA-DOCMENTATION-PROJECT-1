@@ -35,3 +35,6 @@ SELECT SUM(SALES) AS Totalsales from LITAPROJECTI
 ### DATA VISUALISATION
 SUMMARISATION
 
+https://github.com/TDATemmcy/LITA-DOCMENTATION-PROJECT-1/blob/main/Screenshot%20(2).png
+
+
