@@ -34,30 +34,43 @@ SELECT SUM(SALES) AS Totalsales from LITAPROJECTI
 '''
 ### DATA VISUALISATION
 
+![Screenshot (10)](https://github.com/user-attachments/assets/5c32ab44-27bd-4c8f-b00d-f223ccac8d6b)
 
 
+![Screenshot (11)](https://github.com/user-attachments/assets/ff9b5439-34ac-40e0-82ad-207cbfcc1141)
 
 
+![Screenshot (9)](https://github.com/user-attachments/assets/cbfc3f4c-c6a1-4189-bfb5-b763e4811327)
 
 
+![Screenshot (8)](https://github.com/user-attachments/assets/1578d7f2-564a-479a-96a7-d4df8a4d1781)
 
-https://github.com/TDATemmcy/LITA-DOCMENTATION-PROJECT-1/commit/950258b2edfc2397b33c5a7ea38fad225fc3bea0
 
-https://github.com/TDATemmcy/LITA-DOCMENTATION-PROJECT-1/commit/5236e4cdd7f2b3d8bc4b06af921303d75f360f76
+![Screenshot (7)](https://github.com/user-attachments/assets/f674e7be-6668-4da8-b1e9-3a3101f1c654)
 
-https://github.com/TDATemmcy/LITA-DOCMENTATION-PROJECT-1/commit/c895b4e5f538478d700a26b10df94fcf9a9b53d
 
-1https://github.com/TDATemmcy/LITA-DOCMENTATION-PROJECT-1/commit/0f12902a0e3f0411e7edc1db82ec3ccdc643bfe3
+![Screenshot (6)](https://github.com/user-attachments/assets/08918e39-fad7-4f8a-a2c4-c73072baee3a)
 
-https://github.com/TDATemmcy/LITA-DOCMENTATION-PROJECT-1/commit/fe025812b00c1a21ba0b6e231375b429ad7d84ed
 
-https://github.com/TDATemmcy/LITA-DOCMENTATION-PROJECT-1/commit/963f5464405f18303f21b7f140dcbf0e42d809f8
+![Screenshot (5)](https://github.com/user-attachments/assets/39067e71-9d6c-4e92-a51e-82bc5a7b037c)
 
-https://github.com/TDATemmcy/LITA-DOCMENTATION-PROJECT-1/commit/e2687fafdc6ea4edd63e9a2ac773f771e339c3c9
 
-https://github.com/TDATemmcy/LITA-DOCMENTATION-PROJECT-1/blob/main/Screenshot%20(12).png
+![Screenshot (4)](https://github.com/user-attachments/assets/92682c9c-c97d-4cf9-bb04-18c49f503adc)
 
-https://github.com/TDATemmcy/LITA-DOCMENTATION-PROJECT-1/commit/7c4ae1d4a20f2052c3b18fb60a380f1cb3139088
+
+![Screenshot (3)](https://github.com/user-attachments/assets/0ce1a683-fcc3-4a70-b1fa-1119803751f9)
+
+
+![Screenshot (43)](https://github.com/user-attachments/assets/e1aa3d9c-75f1-4b24-8d56-ffe1a9bec9c7)
+
+
+![Screenshot (42)](https://github.com/user-attachments/assets/a0c456f4-7d55-436d-9d25-4bce0ce1f741)
+
+
+![Screenshot (41)](https://github.com/user-attachments/assets/f8a75777-1930-40d0-8809-5f2820ff3e4e)
+
+
+![Screenshot (38)](https://github.com/user-attachments/assets/5a7ae44c-7f37-4ea6-a3af-e912446d3f4c)
 
 
 
