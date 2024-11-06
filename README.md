@@ -67,7 +67,7 @@ SELECT SUM(SALES) AS Totalsales from LITAPROJECTI
 ![Screenshot (42)](https://github.com/user-attachments/assets/a0c456f4-7d55-436d-9d25-4bce0ce1f741)
 
 
-![Screenshot (41)](https://github.com/user-attachments/assets/f8a75777-1930-40d0-8809-5f2820ff3e4e)
+
 
 
 ![Screenshot (38)](https://github.com/user-attachments/assets/5a7ae44c-7f37-4ea6-a3af-e912446d3f4c)
