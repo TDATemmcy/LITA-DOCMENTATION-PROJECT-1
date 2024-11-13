@@ -70,38 +70,27 @@ SELECT SUM(SALES) AS Totalsales from LITAPROJECTI
 
 ![Screenshot (42)](https://github.com/user-attachments/assets/a0c456f4-7d55-436d-9d25-4bce0ce1f741)
 
+![Screenshot (54)](https://github.com/user-attachments/assets/58e55c8d-238f-4b43-b096-69e904183120)
+
+![Screenshot (54)](https://github.com/user-attachments/assets/027800b7-e11f-4ef1-be3d-8ab53da79ed6)
+
+![Screenshot (55)](https://github.com/user-attachments/assets/df7399a8-28d4-474c-83ed-6ebec7e1dd6f)
+
+![Screenshot (58)](https://github.com/user-attachments/assets/93fc7313-f69d-4c3c-a4d3-9196cf9796f7)
+
+![Screenshot (56)](https://github.com/user-attachments/assets/be09d5ea-3e4c-4262-b206-97790cf7758b)
 
 
+![Screenshot (51)](https://github.com/user-attachments/assets/b2db9fe6-c797-46e7-9475-b4b21b50070b)
 
+![Screenshot (51)](https://github.com/user-attachments/assets/37c412ca-7cbc-4af0-a7da-cc0177c11fd4)
 
+![Screenshot (52)](https://github.com/user-attachments/assets/e09bafef-11c5-4dcd-bdf5-b757ba532d8c)
 
+![Screenshot (53)](https://github.com/user-attachments/assets/bbef1c23-8b74-4a95-9419-576dbca07b89)
 
+![Screenshot (48)](https://github.com/user-attachments/assets/d22ed2ed-6208-49da-9981-5ae6f00a38e5)
 
+![Screenshot (48)](https://github.com/user-attachments/assets/b4c05d28-1920-4195-9ced-20e859b30fec)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot (49)](https://github.com/user-attachments/assets/7c6f7d3d-40db-41db-9c8e-f7f6e38c6be5)
